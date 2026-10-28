@@ -191,8 +191,6 @@ This page provides a high-level view of retail performance.
 - Regional performance analysis
 - Key business insights
 
-![Executive Sales Overview](Screenshots/Executive_Overview.png)
-
 ---
 
 ### Page 2 — Product & Profitability Intelligence
@@ -205,8 +203,6 @@ This page focuses on identifying products and categories affecting profitability
 - Furniture subcategory profitability
 - Business insights and recommendations
 
-![Product and Profitability Intelligence](Screenshots/Product_Profitability.png)
-
 ---
 
 ### Page 3 — Discount & Customer Insights
@@ -218,8 +214,6 @@ This page explores the relationship between discount levels, customer segments, 
 - Customer segment profit contribution
 - Discount profitability KPI cards
 - Business recommendations
-
-![Discount and Customer Insights](Screenshots/Discount_Customer_Insights.png)
 
 ---
 
